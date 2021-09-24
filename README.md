@@ -1,4 +1,4 @@
-# Web-Scraping-Web-Mapping
+# Web-Mapping
 Volcanoes located in USA | World Population
 # python_folium
 
